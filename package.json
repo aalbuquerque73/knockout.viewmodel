@@ -1,0 +1,29 @@
+{
+  "name": "knockout.viewmodel",
+  "version": "2.0.3",
+  "description": "The knockout viewmodel plugin runs several times faster than the knockout mapping plugin. It also allows you to fine tune your viewmodel creation for even more speed. Now you can create complex observable viewmodels easily and with more structure and control than ever before!",
+  "main": "knockout.viewmodel.js",
+  "scripts": {
+    "test": "opener ./Tests/Tests.htm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aalbuquerque73/knockout.viewmodel.git"
+  },
+  "keywords": [
+    "Cleaner",
+    "Faster",
+    "Better",
+    "Knockout",
+    "Mapping"
+  ],
+  "author": "Dave Herren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalbuquerque73/knockout.viewmodel.git/issues"
+  },
+  "homepage": "https://github.com/coderenaissance/knockout.viewmodel",
+  "devDependencies": {
+    "opener": "^1.4.1"
+  }
+}
